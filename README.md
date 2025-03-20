@@ -20,3 +20,19 @@ Este projeto é uma tela de login responsiva desenvolvida com **ReactJS**, utili
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
    ```
+
+## ✨ Funcionalidades
+
+✅ Input de email e senha
+✅ Ícones para os campos
+✅ Evento onSubmit para capturar os dados
+
+## 🛠️ Melhorias Futuras
+
+Validação de formulário
+Integração com backend
+Estilização aprimorada
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT.
