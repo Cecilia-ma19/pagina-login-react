@@ -85,6 +85,10 @@
   text-shadow: none;
 }
 
+.container button:hover {
+  background-color: #ffffff8e;
+}
+
 .container .signup-link {
   font-size: 15px;
   text-align: center;
