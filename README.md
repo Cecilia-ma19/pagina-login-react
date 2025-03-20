@@ -4,14 +4,15 @@ Este projeto é uma tela de login responsiva desenvolvida com **ReactJS**, utili
 
 ## 📸 Preview
 
-![Login Screenshot](https://via.placeholder.com/800x400?text=Imagem+da+Tela)  
-_(Substitua pelo link de uma captura de tela real do seu projeto!)_
+![Login Screenshot](src/assets/Captura%20de%20tela%202025-03-20%20184456.png)
 
 ## 🚀 Tecnologias Utilizadas
 
 - ReactJS
 - React Icons
+- HTML
 - CSS
+- JavaScript
 
 ## 🔧 Como Rodar o Projeto
 
