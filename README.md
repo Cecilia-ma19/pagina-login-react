@@ -24,13 +24,17 @@ Este projeto é uma tela de login responsiva desenvolvida com **ReactJS**, utili
 ## ✨ Funcionalidades
 
 ✅ Input de email e senha
+
 ✅ Ícones para os campos
+
 ✅ Evento onSubmit para capturar os dados
 
 ## 🛠️ Melhorias Futuras
 
 Validação de formulário
+
 Integração com backend
+
 Estilização aprimorada
 
 ## 📜 Licença
